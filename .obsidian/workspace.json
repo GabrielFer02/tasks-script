@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "65ed73f70e7567c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e053612dbfbdc13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70c6efa85f89d491",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Roteiros.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Roteiros"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a36a3e7d24fb583a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dee334edb6c59bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c3357ab17f04ee6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5269d4f437166dc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34921adf8e995f4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c43937c977e15441",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ac565d58a2d53ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0aa29c5192e8285",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Repository.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Repository"
+            }
+          },
+          {
+            "id": "1f89800972c66244",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Repository.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Repository"
+            }
+          },
+          {
+            "id": "aa0d37bc43187001",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07aae1eafb501996",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Repository.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Repository"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "70c6efa85f89d491",
+  "lastOpenFiles": [
+    "Excalidraw/Roteiros.md",
+    "Repository.md",
+    "Excalidraw"
+  ]
+}
