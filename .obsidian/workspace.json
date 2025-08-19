@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Roteiros"
             }
+          },
+          {
+            "id": "5ccb55c7eb441e37",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Roteiros.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Roteiros"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,10 +181,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "70c6efa85f89d491",
+  "active": "5ccb55c7eb441e37",
   "lastOpenFiles": [
-    "Excalidraw/Roteiros.md",
     "Repository.md",
+    "Excalidraw/Roteiros.md",
     "Excalidraw"
   ]
 }
