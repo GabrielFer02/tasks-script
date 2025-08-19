@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70c6efa85f89d491",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Roteiros.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Roteiros"
-            }
-          },
-          {
             "id": "5ccb55c7eb441e37",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               "title": "Roteiros"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
