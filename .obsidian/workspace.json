@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c43937c977e15441",
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository.md",
+                "file": "Excalidraw/Roteiros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Repository"
+              "title": "Backlinks for Roteiros"
             }
           },
           {
@@ -170,10 +170,10 @@
   },
   "active": "5ccb55c7eb441e37",
   "lastOpenFiles": [
+    "Excalidraw/Roteiros.md",
     "Validators.md",
     "Estilos tailwind.md",
     "Repository.md",
-    "Excalidraw/Roteiros.md",
     "Excalidraw"
   ]
 }
